@@ -32,4 +32,4 @@ print(f"La edad del perro en años es: {ages[2]}")
 
 # Muestra el tipo de datos devuelto por la función
 print(type(ages))
-
+ #Primera prueba de commit
